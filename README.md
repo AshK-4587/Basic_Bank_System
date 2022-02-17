@@ -1,2 +1,2 @@
-# Basic_Bank_System
-Project for Sparks Foundation Internship
+# Basic_Banking_System
+Project for The Sparks Foundation GRIP  
